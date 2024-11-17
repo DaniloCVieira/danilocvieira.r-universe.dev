@@ -1,0 +1,10 @@
+[
+    {
+        "package": "shiny",
+        "url": "https://github.com/rstudio/shiny"
+    },
+    {
+        "package": "vegan",
+        "url": "https://github.com/vegandevs/vegan"
+    }
+]
